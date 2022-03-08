@@ -1,0 +1,7 @@
+index,centre,minBooths,maxBooths,maxDays,vaxHours,workingHours,reqDose,vph,catchment,enabled,flex,lat,lon
+0,Abbey Hotel,1,10,5,6,8,0,11,47954,True,True,53.62499, -8.19354
+1,Breaffy House,1,25,7,6,8,0,11,97953,True,True,53.842094, -9.236871
+2,Carrick-On-Shannon,1,4,7,6,8,0,11,23711,True,True,53.99604, -8.09176
+3,Racecourse,1,50,7,6,8,0,11,194445,True,True,54.2619315,-8.462472
+4,Sligo IT,1,30,7,6,8,0,11,49511,True,True,54.279097,-8.461760
+5,Letterkenny IT,1,30,7,6,8,0,9,117761,True,True,54.952318, -7.721608
