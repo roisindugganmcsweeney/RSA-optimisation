@@ -1,0 +1,16 @@
+Requirements:
+
+* Mimic table output/format
+* KPMG branding
+
+Outputs:
+
+Absolute vaccines sent to each site
+
+Projection of vaccines per day
+
+Allocate staff to each site
+
+Problem Statement:
+
+"We need to allocate and optimise resources to each individual site based on requirements like number of booths, number of vaccinators etc"
